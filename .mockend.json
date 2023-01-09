@@ -3,8 +3,8 @@
     "sku": { "string": {} },
      "description": { "string": {} },
      "cost_price": { "int": {
-        "min": 21,
-        "max": 100
+        "min": 1,
+        "max": 1000
       } }
   }
 }
