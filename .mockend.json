@@ -1,5 +1,6 @@
 {
   "Product": {
+    "_": { "items": 2 },
     "sku": { "string": {} },
        "description": {
     "loremSentences": { "minLength": 100, "maxLength": 200 }
