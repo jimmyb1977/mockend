@@ -1,7 +1,7 @@
 {
   "Product": {
     "sku": { "string": {} },
-     "description": { "string": {} },
+     "description": { "minLength": 5, "maxLength": 50 },
      "cost_price": { "int": {
         "min": 1,
         "max": 1000
