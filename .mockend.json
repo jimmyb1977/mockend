@@ -1,6 +1,7 @@
 {
   "Product": {
     "sku": { "string": {} },
-     "description": { "string": {} }
+     "description": { "string": {} },
+     "cost_price": { "int": {} }
   }
 }
