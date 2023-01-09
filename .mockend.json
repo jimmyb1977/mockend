@@ -1,5 +1,7 @@
 {
   "Product": {
-    "title": { "string": {} }
+    "sku": { "string": {} }
+  },
+     "description": { "string": {} }
   }
 }
