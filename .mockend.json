@@ -1,8 +1,9 @@
-
 {
   "Product": {
     "sku": { "string": {} },
-     "description": { "string":{}},
+       "description": {
+    "loremSentences": { "minLength": 100, "maxLength": 200 }
+  },
      "cost_price": { "int": {
         "min": 1,
         "max": 1000
